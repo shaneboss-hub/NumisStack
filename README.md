@@ -54,6 +54,14 @@
 
 ---
 
+---
+## ☕ Support the Project
+If you find NumiStack helpful for cataloging and grading your coin collection, consider supporting future development:
+<a href="https://buymeacoffee.com/NumisStack" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180">
+</a>
+---
+
 ## ⚠️ Legal Disclaimer
 
 The grading and identification features provided by NumiStack use artificial intelligence and image analysis and are intended for informational and educational purposes only. AI-generated grades are **estimates and are not equivalent to an examination or grade issued by a professional numismatist or third-party grading service (TPGS)**.

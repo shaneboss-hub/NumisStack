@@ -90,7 +90,4 @@ Any values displayed are **estimates only**, derived from reference data and mar
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 

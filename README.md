@@ -53,13 +53,33 @@
    - Browse by coin series (e.g. Indian Cents, Lincoln Cents, Morgan Dollars, etc.), view your owned coins sorted chronologically, and check your progress on the series checklist.
 
 ---
-
+## 📱 Connecting from Your Phone over Local Wi-Fi (LAN)
+You can use your smartphone (iPhone or Android) to photograph and add coins directly to your collection while NumiStack is running on your PC:
+1. **Ensure Both Devices Are on the Same Wi-Fi Network**: Connect your smartphone to the same home Wi-Fi network as your computer.
+2. **Find Your PC's Local IP Address**:
+   - On Windows, open Command Prompt or PowerShell and type `ipconfig`.
+   - Look for the **IPv4 Address** under your active Wi-Fi or Ethernet adapter (e.g., `192.168.1.45`).
+3. **Open the App in Your Mobile Browser**:
+   - On your phone's browser (Safari, Chrome, etc.), navigate to:
+     ```text
+     http://<YOUR_PC_IP>:8000
+     ```
+     *(Example: `http://192.168.1.45:8000`)*
+4. **Log In and Start Cataloging**:
+   - Enter your vault credentials.
+   - Tap **`+ Add Raw Coin`** $\rightarrow$ choose your phone's camera to capture front and back photos directly from your desk!
+> **Note**: If your phone cannot connect, make sure Windows Defender Firewall allows incoming connections on port `8000`, or select "Allow" if prompted when launching the app.
 ---
 ## ☕ Support the Project
 If you find NumiStack helpful for cataloging and grading your coin collection, consider supporting future development:
 <a href="https://buymeacoffee.com/NumisStack" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180">
 </a>
+---
+
+## 🐛 Feedback & Bug Reports
+Found an issue or have a feature suggestion?
+Please submit a ticket via our [GitHub Issues](https://github.com/NumisStack/NumiStack/issues) page.
 ---
 
 ## ⚠️ Legal Disclaimer

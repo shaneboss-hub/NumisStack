@@ -37,20 +37,24 @@
   - **Add Raw Coin**: AI coin detection, automatic cropping, identification, and instant grading assessment.
 
 ---
-
 ## 📥 Download & Installation
+Because NumisStack bundles local AI neural networks and comprehensive price databases (~3 GB total), the installer is distributed in two parts:
+### 1. Download Both Parts:
+- 📦 [**Download Part 1 (NumisStack_Setup_v1.0.0.7z.001)**](https://github.com/shaneboss-hub/NumisStack/releases/download/v1.0.0/NumisStack_Setup_v1.0.0.7z.001) (~1.5 GB)
+- 📦 [**Download Part 2 (NumisStack_Setup_v1.0.0.7z.002)**](https://github.com/shaneboss-hub/NumisStack/releases/download/v1.0.0/NumisStack_Setup_v1.0.0.7z.002) (~1.5 GB)
+### 2. Extract and Install:
+1. Save both files in the **same folder** (e.g. your Downloads folder).
+2. Right-click `NumisStack_Setup_v1.0.0.7z.001` $\rightarrow$ select **7-Zip** (or WinRAR) $\rightarrow$ **Extract Here**.  
+   *(If you need 7-Zip, download it free from [7-zip.org](https://www.7-zip.org/)).*
+3. Double-click the extracted **`NumisStack_Setup_v1.0.0.exe`** and follow the setup wizard.
+4. Launch **NumisStack** from your Desktop shortcut or Start Menu!
 
-### Option 1: Standalone Windows Installer (Recommended)
-1. Download **`NumiStack_Setup_v1.0.0.exe`** from the [Releases](https://github.com) section.
-2. Run the installer and follow the setup wizard.
-3. Launch **NumiStack** from your Desktop shortcut or Start Menu.
+   
+**System Requirements:**
+Windows 10 or Windows 11 (64-bit)
+4 GB RAM minimum (8 GB recommended for faster AI grading)
+~4.5 GB free disk space
 
-> **System Requirements:**
-> - Windows 10 or Windows 11 (64-bit)
-> - 4 GB RAM minimum (8 GB recommended for fast AI inference)
-> - ~4 GB free disk space
-
----
 
 ## 🚀 Quick Start Guide
 

@@ -4,6 +4,15 @@
 **NumiStack** is a modern, privacy-focused desktop cataloging application and AI-powered numismatic grading suite built for US coin collectors. It allows you to organize your collection by series, track valuations and acquisitions, and grade raw coins using multi-view vision AI models directly on your machine.
 
 ---
+## 📸 App Previews
+<p align="center">
+  <img src="MainPage.png" width="48%" alt="Main App View" />
+  <img src="CollectionPage.png" width="48%" alt="Collection Page" />
+</p>
+<p align="center">
+  <img src="ChecklistView.png" width="48%" alt="Series Checklist Album" />
+  <img src="CollectionPage2.png" width="48%" alt="Collection Page View" />
+</p>
 
 ## ✨ Key Features
 

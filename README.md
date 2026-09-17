@@ -6,12 +6,14 @@
 ---
 ## 📸 App Previews
 <p align="center">
-  <img src="MainPage.png" width="48%" alt="Main App View" />
-  <img src="CollectionPage.png" width="48%" alt="Collection Page" />
+  <img src="MainPage.png" width="32%" alt="Main App View" />
+  <img src="CollectionPage.png" width="32%" alt="Collection Page" />
+  <img src="AI_Identification.png" width="32%" alt="AI Identification" />
 </p>
 <p align="center">
-  <img src="ChecklistView.png" width="48%" alt="Series Checklist Album" />
-  <img src="CollectionPage2.png" width="48%" alt="Collection Page View" />
+  <img src="ChecklistView.png" width="32%" alt="Series Checklist Album" />
+  <img src="CollectionPage2.png" width="32%" alt="Collection Page View" />
+  <img src="AI Graded.png" width="32%" alt="AI Grading Raw Coins" />
 </p>
 
 ## ✨ Key Features
